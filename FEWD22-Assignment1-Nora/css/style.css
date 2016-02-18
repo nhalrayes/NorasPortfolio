@@ -1,0 +1,36 @@
+body {
+	background-image: url("http://p1.pichost.me/i/55/1789611.jpg");
+	background-size: 100% 500px;
+	background-repeat: no-repeat;
+	background-color: black;
+	font-family: Palatino, Verdana, sans-serif; 
+	color: #A9D0F5;
+	font-weight: bold;
+	padding: 25px 75px;
+}
+
+img {
+	border: 3px solid black ;
+  	display: block;
+ 	margin-left: auto;
+ 	margin-right: auto;
+}
+
+nav {
+	text-align: center;
+	font-weight: bold;
+	font-family: Palatino, sans-serif;
+	color: white;
+}
+
+div {text-align: center;}
+ 
+a {color: red;}
+
+h1 {text-align: center;}
+
+h2 {
+	text-decoration: underline; 
+	font-weight: bolder;
+	font-size: 26px; 
+}
